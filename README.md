@@ -1,2 +1,2 @@
-# til
-Today I Learned
+# Today I Learned
+Things I've picked up along the way. 
