@@ -2,4 +2,4 @@
 Things I've picked up along the way. 
 
 ## DEVONthink
-- [Turn PDF Color Inversion Off in DEVONthink](https://github.com/gavischneider/til/blob/main/devonthink/turn-pdf-color-inversion-off.md)
+- [Turn PDF Color Inversion Off in DEVONthink](https://github.com/gavischneider/til/blob/main/devonthink/turn-pdf-color-inversion-off.md) 2026-06-09
