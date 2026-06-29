@@ -6,6 +6,10 @@ Things I've picked up along the way.
 
 - [Turn PDF Color Inversion Off in DEVONthink](https://github.com/gavischneider/til/blob/main/devonthink/turn-pdf-color-inversion-off.md) 2026-06-09
 
+## Git
+
+- [Three Ways to Stop Git from Tracking Files](https://github.com/gavischneider/til/blob/main/git/three-ways-to-stop-git-from-tracking-files.md) 2026-06-29
+
 ## Knowledge Graphs
 
 - [Knowledge Graph Triples](https://github.com/gavischneider/til/blob/main/knowledge-graphs/knowledge-graph-triples.md) 2026-06-19
