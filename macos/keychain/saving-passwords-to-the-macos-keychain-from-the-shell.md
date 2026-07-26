@@ -6,10 +6,10 @@ You can save a password to the macOS keychain from the shell using the native `s
 security add-generic-password -a "$USER" -s "MyService" -w "MyPassword"
 ```
 
-A more secure way to do this is to omit the `-w` flag and let the terminal prompt you for your password. Passing `-w` with a plain-text password puts your secret into your shell history file.
+A more secure way to do this is to omit the argument to the `-w` flag and let the terminal prompt you for your password. Passing `-w` with a plain-text password puts your secret into your shell history file.
 
 ```
-security add-generic-password -a "$USER" -s "MyService"
+security add-generic-password -a "$USER" -s "MyService" -w
 ```
 
 The terminal will then prompt you for your password.
