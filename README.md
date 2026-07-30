@@ -18,6 +18,10 @@ Things I've picked up along the way.
 
 - [Saving Passwords to the macOS Keychain from the Shell](https://github.com/gavischneider/til/blob/main/macos/keychain/saving-passwords-to-the-macos-keychain-from-the-shell.md) 2026-07-26
 
+## Notion
+
+- [Print a Numbered List of Entries in a Notion Data Source](https://github.com/gavischneider/til/blob/main/notion/print-a-numbered-list-of-entries-in-a-notion-data-source.md) 2026-07-30
+
 ## Python
 
 - [Send a Telegram Message in Pure Python](https://github.com/gavischneider/til/blob/main/python/send-telegram-message.md) 2026-06-09
